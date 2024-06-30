@@ -114,7 +114,7 @@ Feel free to reach out if you're interested in collaborating on projects or disc
 
 ## Support! :-
 
-<p><a href="https://buymeacoffee.com/taranpreet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="taran" /></a></p><br><br>
+<a href="https://www.buymeacoffee.com/taranpreet"><img align="left" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=taranpreet&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 
