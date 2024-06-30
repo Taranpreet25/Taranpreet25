@@ -111,3 +111,11 @@
 ## Let's Connect! 🤝
 
 Feel free to reach out if you're interested in collaborating on projects or discussing tech topics! 🚀
+
+## Support! :-
+
+<p><a href="https://buymeacoffee.com/taranpreet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="taran" /></a></p><br><br>
+
+
+
+
